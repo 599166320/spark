@@ -37,6 +37,8 @@
     <hadoop.deps.scope>provided</hadoop.deps.scope>
     <hive.deps.scope>provided</hive.deps.scope>
     <parquet.deps.scope>provided</parquet.deps.scope>
+    <maven.compiler.source>11</maven.compiler.source>
+    <maven.compiler.target>11</maven.compiler.target>
   </properties>
 
   <dependencies>
